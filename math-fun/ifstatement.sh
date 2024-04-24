@@ -1,10 +1,12 @@
 #!/bin/bash
 
-num=10
+role=1
 
-if [ $num -eq 10 ]
+if [ $role -eq 1 ]
 then 
-	echo "True, its equal to 10"
+	echo "Welcome ! admin your allowed to pass"
+else
+	echo "Oops ! error occured, you're not an admin"
 fi
 
 
