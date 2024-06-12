@@ -1,1 +1,1 @@
-# Bash Scripting Tutorial – Linux Shell Script and Command Line 
+# Bash Scripting Learning Repository
